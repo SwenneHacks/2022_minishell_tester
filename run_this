@@ -1,0 +1,4 @@
+cat tests/* > test_all
+make -C ../../
+cp ../../minishell .
+python3 run/tester.py -exe ./minishell -o test_all

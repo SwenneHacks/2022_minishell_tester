@@ -1,0 +1,8 @@
+* 
+!.gitignore
+!interactive.sh
+!README.md
+!run_this
+!tests
+!utils
+!srcs

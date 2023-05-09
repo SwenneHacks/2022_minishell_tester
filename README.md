@@ -4,8 +4,7 @@ Welcome to the minishell tester, this script will make you test your minishell i
 ## Run
 To run this script you have to use the Python3 interpreter, launch this commands in the terminal to start the program
 
-    git clone https://github.com/XEDGit/new_minishell_tester.git
-    python3 new_minishell_tester/tester.py
+    python3 tester.py
 
 ## Flags (optional)
     -h:            Display help text
