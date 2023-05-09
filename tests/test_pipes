@@ -1,0 +1,8 @@
+echo sos | echo lol | cat -e
+false < l | exit 66 | exit 66 | exit 66 | exit 66 | exit 66 | exit 66 | exit 66 | exit 66 | exit 66 | exit 66 | exit 66 | exit 66 | exit 66 | exit
+cat /dev/random | head -c 100 | wc -c
+| testttt
+ls -la | wtf
+|
+| | | cat | 
+pwd > 1| pwd | cat 1

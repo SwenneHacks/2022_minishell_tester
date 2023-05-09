@@ -1,0 +1,20 @@
+echo hi="my $USER"
+export TEST='yolo'
+echo $TEST
+echo $test
+echo $_TEST
+echo "$TEST"
+echo '$TEST'
+echo "$T1TEST"
+echo "$TEST$TEST$TEST"
+echo "$TEST$TEST=lol$TEST"
+echo "   $TEST lol $TEST"
+echo $TEST$TEST$TEST
+echo $TEST$TEST=lol$TEST""lol
+echo    $TEST lol $TEST
+echo "$=TEST"
+echo "$"
+echo "$?TEST"
+echo $TEST $TEST
+echo "$T1TEST"
+echo $

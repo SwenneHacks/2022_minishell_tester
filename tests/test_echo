@@ -1,0 +1,12 @@
+echo test         test
+echo echo echo echoo
+echo test tout
+echo test      tout
+echo -n test tout
+echo -n -n -n test tout
+echo > <
+echo | |
+echo <<
+echoecho
+echo -n      -n 
+echo     -n

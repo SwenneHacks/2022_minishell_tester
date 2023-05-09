@@ -1,0 +1,27 @@
+
+cd test_dir 
+echo test > ls \n cat ls
+echo test > ls >> ls >> ls \n echo test >> ls \n cat ls
+> lol echo test lol \n cat lol
+>lol echo > test>lol>test>>lol>test mdr >lol test >test \n cat test
+rm test>lol>test>>lol>test
+cat < ls
+cat < ls > ls
+<
+>
+< < <
+>>
+<<<<<<<
+<>
+><<
+>><
+>>>>>>>>>>>
+><><><><><><><>
+> > > >
+cat <ls
+ls > ls
+cat < ls
+rm -f ls \n cat > ls < ls \n rm -f ls
+echo test > ls >> ls >> ls 
+echo test > ls \n rm ls
+
