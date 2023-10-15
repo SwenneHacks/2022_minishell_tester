@@ -1,9 +1,0 @@
-* 
-!.gitignore
-!interactive_mode.sh
-!README.md
-!run_all
-!run_fails
-!tests
-!utils
-!srcs
